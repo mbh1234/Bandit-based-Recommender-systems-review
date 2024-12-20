@@ -1,6 +1,6 @@
 # Bandit-based Recommender Systems Review
 
-This project was intially a part of the EE675 Reinforcement Learning course. 
+This project intially commenced as part of the EE675 Reinforcement Learning course. 
 
 The presentation for the course project is available [here](https://www.canva.com/design/DAGCULv5Tv4/a0cu1g7APmePsAGXaFAXnQ/edit?utm_content=DAGCULv5Tv4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
